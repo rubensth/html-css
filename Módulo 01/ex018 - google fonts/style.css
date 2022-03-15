@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+ 
+
+
+@font-face {
+    font-family: 'Love';
+    src: url('MagicHeart_PERSONAL_USE_ONLY.otf') format('truetype');
+    
+}
+
+h1{font-family: 'Love', 'sans-serif';
+    font-size: 3em;
+font-weight: normal;
+text-align: left;  }
+
+body{ font-weight: bold;
+font-size: large;
+text-align: justify;}
